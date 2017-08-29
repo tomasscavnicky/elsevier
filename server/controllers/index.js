@@ -1,7 +1,7 @@
-const todos = require('./todos');
-const todoItems = require('./todoitems')
+const patients = require('./patients');
+const appointments = require('./appointments')
 
 module.exports = {
-  todos,
-  todoItems,
+  patients,
+  appointments,
 };
